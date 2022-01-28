@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>database--arrow.png</file>
+    <file>icono-pdf.png</file>
+    <file>database--minus.png</file>
+    <file>database--plus.png</file>
+  </qresource>
+</RCC>
